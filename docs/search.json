@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "shinylive.html",
+    "href": "shinylive.html",
+    "title": "shinylive",
+    "section": "",
+    "text": "Shinylive is a way to run Shiny applications directly in a web browser without needing a server.\n\n\nTraditional Shiny: - Requires a server - Runs R in the backend\nShinylive: - Runs entirely in the browser - No server required\n\n\n\n\nEasy deployment\nNo hosting cost\nGood for simple apps\n\n\n\n\n\nLimited functionality\nNot suitable for large datasets\nSlower initial load\n\n\n\n\nShinylive is useful for sharing simple interactive dashboards, while traditional Shiny is better for more complex applications."
+  },
+  {
+    "objectID": "shinylive.html#difference-from-traditional-shiny",
+    "href": "shinylive.html#difference-from-traditional-shiny",
+    "title": "shinylive",
+    "section": "",
+    "text": "Traditional Shiny: - Requires a server - Runs R in the backend\nShinylive: - Runs entirely in the browser - No server required"
+  },
+  {
+    "objectID": "shinylive.html#pros",
+    "href": "shinylive.html#pros",
+    "title": "shinylive",
+    "section": "",
+    "text": "Easy deployment\nNo hosting cost\nGood for simple apps"
+  },
+  {
+    "objectID": "shinylive.html#cons",
+    "href": "shinylive.html#cons",
+    "title": "shinylive",
+    "section": "",
+    "text": "Limited functionality\nNot suitable for large datasets\nSlower initial load"
+  },
+  {
+    "objectID": "shinylive.html#conclusion",
+    "href": "shinylive.html#conclusion",
+    "title": "shinylive",
+    "section": "",
+    "text": "Shinylive is useful for sharing simple interactive dashboards, while traditional Shiny is better for more complex applications."
+  },
+  {
+    "objectID": "shiny.html",
+    "href": "shiny.html",
+    "title": "Shiny",
+    "section": "",
+    "text": "This page presents my interactive dashboard built using Shiny.\n\n\nUnlike the static dashboard, this app allows users to explore the data dynamically by selecting different filters and metrics.\n\n\n\n\nFilter by date range\n\nSelect different performance metrics\n\nCompare content types\n\nExplore trends over time\n\n\n\n\n[Launch Shiny App](https://eunicew.shinyapps.io/msdm-project-eunice/\n\n\n\nThis interactive approach allows users to analyze performance from multiple perspectives instead of relying on a single summary."
+  },
+  {
+    "objectID": "shiny.html#project-overview",
+    "href": "shiny.html#project-overview",
+    "title": "Shiny",
+    "section": "",
+    "text": "Unlike the static dashboard, this app allows users to explore the data dynamically by selecting different filters and metrics."
+  },
+  {
+    "objectID": "shiny.html#features",
+    "href": "shiny.html#features",
+    "title": "Shiny",
+    "section": "",
+    "text": "Filter by date range\n\nSelect different performance metrics\n\nCompare content types\n\nExplore trends over time"
+  },
+  {
+    "objectID": "shiny.html#view-the-app",
+    "href": "shiny.html#view-the-app",
+    "title": "Shiny",
+    "section": "",
+    "text": "[Launch Shiny App](https://eunicew.shinyapps.io/msdm-project-eunice/"
+  },
+  {
+    "objectID": "shiny.html#why-it-matters",
+    "href": "shiny.html#why-it-matters",
+    "title": "Shiny",
+    "section": "",
+    "text": "This interactive approach allows users to analyze performance from multiple perspectives instead of relying on a single summary."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This page showcases my static dashboard built using Quarto.\n\n\nThe dashboard analyzes ODI Grips’ Instagram performance to understand which content types perform best.\n\n\n\nView Full Dashboard)\n\n\n\nContent types such as sales and educational posts tend to generate stronger engagement compared to others."
+  },
+  {
+    "objectID": "dashboard.html#project-overview",
+    "href": "dashboard.html#project-overview",
+    "title": "Dashboard",
+    "section": "",
+    "text": "The dashboard analyzes ODI Grips’ Instagram performance to understand which content types perform best."
+  },
+  {
+    "objectID": "dashboard.html#dashboard",
+    "href": "dashboard.html#dashboard",
+    "title": "Dashboard",
+    "section": "",
+    "text": "View Full Dashboard)"
+  },
+  {
+    "objectID": "dashboard.html#key-insight",
+    "href": "dashboard.html#key-insight",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Content types such as sales and educational posts tend to generate stronger engagement compared to others."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "I am a graduate student in the Master of Science in Digital Marketing program at Cal Poly Pomona. I am interested in digital marketing and using data to guide business decisions.\n\n\n\nMy goal is to work in a role where I can combine data analysis with marketing strategy to improve performance and drive results.\n\n\n\n\nR / Quarto\n\nData Visualization\n\nMarketing Analytics\n\nShiny Applications\n\n\n\n\nCal Poly Pomona\nMaster of Science in Digital Marketing"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Index",
+    "section": "",
+    "text": "I am a graduate student in the Master of Science in Digital Marketing program at Cal Poly Pomona. I am interested in digital marketing and using data to guide business decisions."
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "Index",
+    "section": "",
+    "text": "My goal is to work in a role where I can combine data analysis with marketing strategy to improve performance and drive results."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Index",
+    "section": "",
+    "text": "R / Quarto\n\nData Visualization\n\nMarketing Analytics\n\nShiny Applications"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Index",
+    "section": "",
+    "text": "Cal Poly Pomona\nMaster of Science in Digital Marketing"
+  }
+]
