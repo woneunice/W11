@@ -1,0 +1,24 @@
+---
+title: "Shiny"
+format: html
+editor: visual
+---
+
+# Interactive Shiny App
+
+This page presents my interactive dashboard built using Shiny.
+
+## Project Overview
+Unlike the static dashboard, this app allows users to explore the data dynamically by selecting different filters and metrics.
+
+## Features
+- Filter by date range  
+- Select different performance metrics  
+- Compare content types  
+- Explore trends over time  
+
+## View the App
+[Launch Shiny App](https://eunicew.shinyapps.io/msdm-project-eunice/
+
+## Why It Matters
+This interactive approach allows users to analyze performance from multiple perspectives instead of relying on a single summary.

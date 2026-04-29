@@ -1,0 +1,23 @@
+---
+title: "Index"
+format: html
+editor: visual
+---
+
+# Eunice Won
+
+## About Me
+I am a graduate student in the Master of Science in Digital Marketing program at Cal Poly Pomona. I am interested in digital marketing and using data to guide business decisions.
+
+## Career Goals
+My goal is to work in a role where I can combine data analysis with marketing strategy to improve performance and drive results.
+
+## Skills
+- R / Quarto  
+- Data Visualization  
+- Marketing Analytics  
+- Shiny Applications  
+
+## Education
+Cal Poly Pomona  
+Master of Science in Digital Marketing

@@ -1,0 +1,32 @@
+---
+title: "shinylive"
+format: html
+editor: visual
+---
+
+# What is Shinylive?
+
+Shinylive is a way to run Shiny applications directly in a web browser without needing a server.
+
+## Difference from Traditional Shiny
+
+Traditional Shiny:
+- Requires a server
+- Runs R in the backend
+
+Shinylive:
+- Runs entirely in the browser
+- No server required
+
+## Pros
+- Easy deployment
+- No hosting cost
+- Good for simple apps
+
+## Cons
+- Limited functionality
+- Not suitable for large datasets
+- Slower initial load
+
+## Conclusion
+Shinylive is useful for sharing simple interactive dashboards, while traditional Shiny is better for more complex applications.

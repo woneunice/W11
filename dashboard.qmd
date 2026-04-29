@@ -1,0 +1,19 @@
+---
+title: "Dashboard"
+format: html
+editor: visual
+---
+
+# Static Dashboard
+
+This page showcases my static dashboard built using Quarto.
+
+## Project Overview
+The dashboard analyzes ODI Grips’ Instagram performance to understand which content types perform best.
+
+## Dashboard
+
+[View Full Dashboard](https://woneunice.github.io/w10-dashboard-eunice/))
+
+## Key Insight
+Content types such as sales and educational posts tend to generate stronger engagement compared to others.
